@@ -1,6 +1,6 @@
-Teste solicitado para o estágiio da empresa Target.
+Teste solicitado para o estágio da empresa Target.
 Foi utilizado a linguagem em python para a resolução do desafio.
-As questões que era de lógiga estão logo abaixo.
+As questões que era de apenas lógiga estão logo abaixo.
 
 3) Descubra a lógica e complete o próximo elemento: 
 
